@@ -19,6 +19,7 @@ SQL: Aggregations, subqueries, window functions
 Power BI: Dashboarding and data visualization
 
 🔍 Methodology
+
 1️⃣ Data Cleaning (Python)
 Handled missing values and inconsistencies
 Removed duplicate records
@@ -40,12 +41,12 @@ Top products within each category
 Discount usage rate by product
 Customer segmentation (New, Returning, Loyal)
 
-4️⃣ Visualization (Power BI)
+4️⃣ Visualization (Power BI):
 Built an interactive dashboard with KPIs and charts
 Used filters for customer demographics and purchase attributes
 Focused on clear storytelling for non-technical stakeholders
 
-📈 Key Insights
+📈 Key Insights:
 Spending behavior varies significantly across customer segments
 Subscribed customers show different purchasing patterns compared to non-subscribers
 Certain products perform consistently well across categories
